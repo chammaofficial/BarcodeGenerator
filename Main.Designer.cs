@@ -101,7 +101,7 @@
             this.numItemPriceFont.Size = new System.Drawing.Size(56, 23);
             this.numItemPriceFont.TabIndex = 28;
             this.numItemPriceFont.Value = new decimal(new int[] {
-            10,
+            9,
             0,
             0,
             0});
@@ -113,7 +113,7 @@
             this.numItemNameFont.Size = new System.Drawing.Size(56, 23);
             this.numItemNameFont.TabIndex = 27;
             this.numItemNameFont.Value = new decimal(new int[] {
-            10,
+            9,
             0,
             0,
             0});
@@ -125,7 +125,7 @@
             this.numShopNameFont.Size = new System.Drawing.Size(56, 23);
             this.numShopNameFont.TabIndex = 26;
             this.numShopNameFont.Value = new decimal(new int[] {
-            10,
+            9,
             0,
             0,
             0});
